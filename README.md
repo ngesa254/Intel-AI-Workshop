@@ -2,8 +2,7 @@
 
 🐍 💻 Documentation and sample codes for Intel AI Workshop
 
-Contributing
-------------
+### Contributing
 
 I would ❤️  some contributions from other authors here. Just follow these steps
 
@@ -14,8 +13,8 @@ I would ❤️  some contributions from other authors here. Just follow these st
  - Send me a pull request with everything
  - 🤗  wait for my virtual hug
 
-Get in touch - Let's become friends
------------------------------------
+### Get in touch - Let's become friends
+
 
 Please feel free to contact me if you have any questions, ideas or even if you just want to say hi. I’m up for talking, exchange ideas, collaborations or consults. You can connect with me through any of the avenues listed below:
 
@@ -27,6 +26,6 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 
 Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
 
-References
-----------
+### References
+
 -
