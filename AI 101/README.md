@@ -18,13 +18,6 @@ Adapt—Finally, we must be able to adapt algorithms at each phase based on expe
 
 - [Slides](https://speakerdeck.com/ngesa254)
 
-### Contributing
-
-I would ❤️  some contributions from other authors here. Just follow these steps
-
- - Fork this repository
- 
-
 ### Get in touch - Let's become friends
 
 Please feel free to contact me if you have any questions, ideas or even if you just want to say hi. I’m up for talking, exchange ideas, collaborations or consults. You can connect with me through any of the avenues listed below:
