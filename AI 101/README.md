@@ -4,6 +4,18 @@ Get Started with AI
 
 🐍 💻 Learn about the basics of AI, typical workflows, and opportunities for AI developers.
 
+### What Exactly is AI?
+
+The key to machine intelligence is that it must be able to sense, reason, and act, then adapt based on experience.
+
+Sense—Identify and recognize meaningful objects or concepts in the midst of vast data. Is that a stoplight? Is it a tumor or normal tissue?
+ 
+Reason—Understand the larger context, and make a plan to achieve a goal. If the goal is to avoid a collision, the car must calculate the likelihood of a crash based on vehicle behaviors, proximity, speed, and road conditions.
+ 
+Act—Either recommend or directly initiate the best course of action. Based on vehicle and traffic analysis, it may brake, accelerate, or prepare safety mechanisms.
+ 
+Adapt—Finally, we must be able to adapt algorithms at each phase based on experience, retraining them to be ever more intelligent. Autonomous vehicle algorithms should be re-trained to recognize more blind spots, factor new variables into the context, and adjust actions based on previous incidents.
+
 ### Contributing
 
 I would ❤️  some contributions from other authors here. Just follow these steps
