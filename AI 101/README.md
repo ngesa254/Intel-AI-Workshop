@@ -24,5 +24,4 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
 
 ### References
-
--
+- [Intel AI Acardemy](https://software.intel.com/en-us/ai-academy/basics)
