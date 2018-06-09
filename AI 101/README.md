@@ -16,6 +16,8 @@ Act—Either recommend or directly initiate the best course of action. Based on 
  
 Adapt—Finally, we must be able to adapt algorithms at each phase based on experience, retraining them to be ever more intelligent. Autonomous vehicle algorithms should be re-trained to recognize more blind spots, factor new variables into the context, and adjust actions based on previous incidents.
 
+- [Slides](https://speakerdeck.com/ngesa254)
+
 ### Contributing
 
 I would ❤️  some contributions from other authors here. Just follow these steps
@@ -37,3 +39,4 @@ Found this project useful ❤️? Support by clicking the ⭐️ button on the u
 
 ### References
 - [Intel AI Academy](https://software.intel.com/en-us/ai-academy/basics)
+
